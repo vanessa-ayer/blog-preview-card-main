@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/blog-preview-card-dQpmYZq8eo
 - Live Site URL: https://vanessa-ayer.github.io/blog-preview-card-main/
 
 ### Built with
